@@ -1,5 +1,5 @@
 {
   "name": "Ali",
-  "blocked": "block",
+  "blocked": true,
   "expire": "2025-02-15"
 }
