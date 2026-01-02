@@ -1,5 +1,5 @@
 {
   "name": "Admin",
-  "blocked": false,
+  "blocked": true,
   "expire": "2026-02-15"
 }
