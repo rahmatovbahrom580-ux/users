@@ -1,6 +1,6 @@
 {
   "name": "Admin",
-  "blocked": true,
-  "expire": "2026-03-03",
+  "blocked": false,
+  "expire": " ",
   "key": "b58156e03085d24928893e1028649381d026d3db91d6c079d79810dbac76159"
 }
